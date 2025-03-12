@@ -10,7 +10,7 @@ This project focuses on detecting and classifying **plant diseases** using **dee
 
 ## 🔄 **Workflow**  
 1️ **Data Preprocessing** 🛠️  
-   - Image resizing, normalization, and augmentation.  
+   - Image resizing, normalization, and augmentation. 
    - Splitting dataset into **training, validation, and test sets**.  
 
 2️ **Feature Extraction** 🌱  
